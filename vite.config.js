@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Nitin-Negi-Portfolio/', // set this if deploying to GitHub Pages subfolder
+  base: '/my-portfolio-x/', // set this if deploying to GitHub Pages subfolder
 });
