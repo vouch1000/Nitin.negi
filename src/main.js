@@ -1,7 +1,7 @@
 if(window.innerWidth <= 450){
   window.location.href = "https://shobhitmaste.github.io/portfolio-website-mobile-site/";
 } else {
-  // window.location.href = "http://localhost:5173/Shobhit-Singh-Portfolio/";
+  // window.location.href = "http://localhost:5173/Nitin-Negi-Portfolio/";
 }
 
 import * as THREE from "three";
